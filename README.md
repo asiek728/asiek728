@@ -13,8 +13,6 @@
 <br>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer from Scotland.
-- :telescope: I’m currently a Tech Trainee at La Fosse.
-- :zap: In my free time, I work on my Android application and learn Javascript.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <br>
 
@@ -44,6 +42,19 @@
 ---
 <br>
 
+## ⚡: Projects I have worked on
+
+### La Fosse Project 4:
+
+[![lfa4](https://img.youtube.com/vi/1OLcAyWFuO8/0.jpg)](https://www.youtube.com/watch?v=1OLcAyWFuO8&ab)
+
+### La Fosse Project 3:
+
+[![lfa3](https://img.youtube.com/vi/H527g7ICaqM/0.jpg)](https://www.youtube.com/watch?v=H527g7ICaqM&ab)
+
+---
+<br>
+
 ### :fire: My Stats :
 <br>
 
@@ -59,26 +70,4 @@
 
 
 
-
-
-
-<!--
-
-<img src="https://komarev.com/ghpvc/?username=asiek728&style=flat-square&color=blue" alt=""/>
-
-
-<div id="badges"  align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-    <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Portfolio_Website-blue?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</div>
-https://simpleicons.org/
--->
----
 
